@@ -1,0 +1,7 @@
+ro.display.series=Samsung Galaxy A11
+ro.product.board=msm8953
+ro.board.platform=msm8953
+sys.usb.controller=7000000.dwc3
+ro.boot.dynamic_partitions=true
+#fbe.metadata.wrappedkey=true
+ro.boot.bootdevice=7824900.sdhci
