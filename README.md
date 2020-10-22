@@ -1,11 +1,11 @@
-## Recovery Device Tree for the Samsung Galaxy S20 5G (Snapdragon)
+## Recovery Device Tree for the Samsung Galaxy A11 (Snapdragon)
 
 ## How-to compile it:
 
 ```sh
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
-lunch omni_x1q-eng
+lunch omni_a11q-eng
 make recoveryimage
 ```
 
