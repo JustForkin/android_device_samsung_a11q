@@ -95,7 +95,6 @@ BOARD_SAMSUNG_DYNAMIC_PARTITIONS_SIZE := 3668369408
 BOARD_SAMSUNG_DYNAMIC_PARTITIONS_PARTITION_LIST := system vendor product odm
 
 # System as root
-BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
 BOARD_ROOT_EXTRA_FOLDERS := cache carrier efs keydata keyrefuge optics prism
 BOARD_SUPPRESS_SECURE_ERASE := true
 
